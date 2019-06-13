@@ -1,0 +1,6 @@
+[flake8]
+ignore = F401,E501,E265,E901,E402
+builtins = StandardError,apply,basestring,buffer,cmp,coerce,execfile,file,intern,long,raw_input,reduce,reload,unichr,unicode,xrange
+max-line-length = 120
+max-complexity = 18
+select = B,C,E,F,W,T4,B9
