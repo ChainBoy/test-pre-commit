@@ -11,6 +11,7 @@ bash init.sh
 
 test update main.py
 ```
+echo "print 233" >> main.py
 echo "" >> main.py
 git add .
 git commit -m "test update"
